@@ -1,46 +1,22 @@
 ## 👋 Hi, I’m Baratam Nidhishri
 
-
-
 🎓 I’m a pre-final year **Electronics and Communications Engineering** student at **LNMIIT, Jaipur**, pursuing a **minor in AI & Data Science**.  
 🚀 I’m deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Embedded Systems**.  
 💡 I enjoy working at the intersection of hardware and intelligent software, aiming to develop impactful tech-driven solutions.
 
-
 ---
 
-### 📊 GitHub Stats & Streak
+### 🌱 Currently Seeking Mentorship
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibaratam&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhibaratam&layout=compact&theme=github_light&hide_border=true" alt="Top Languages" />
-</p>
-
-
----
-
-### 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nidhibaratam2005?theme=light&font=baloo&ext=contest" alt="LeetCode Stats" />
-  <br/>
-  <img src="https://img.shields.io/badge/LeetCode-Python%20%7C%20Java%20%7C%20C-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Languages Badge" />
-</p>
-
-
----
-
-### 🤝 Open to Opportunities
-
-- 🧑‍🏫 Looking to be **mentored** in AI/ML, embedded systems, system design, and open source engineering  
-- 🌱 Excited to **collaborate on open source projects** where I can learn, contribute, and grow
+- 🤝 I’m looking for **mentorship** in AI/ML, embedded systems, system design, and open source engineering.
+- 🌱 Always excited to **collaborate on open source projects** where I can learn, contribute, and grow.
+- 💬 I love connecting with fellow developers, mentors, and tech enthusiasts!
 
 ---
 
 ### 💻 Technical Skills
 
-**Programming:** Python | C | Java | Embedded C | VHDL  
+**Programming:** Java | Python | C | Embedded C | VHDL  
 **AI/ML:** Neural Networks | Deep Learning | LSTM | Scikit-learn | TensorFlow | Keras  
 **Data Science:** Data Preprocessing | Feature Engineering | Time Series Analysis | Data Visualization  
 **Embedded Systems:** 8051 & 8085 Microcontrollers | Digital Design | VHDL | Xilinx Vivado  
@@ -68,6 +44,12 @@
 
 ---
 
+### ✈️ Fun Fact
+
+- I love travelling! Always up for new adventures, exploring places, and sharing travel tips or experiences.
+
+---
+
 ### 🏆 Achievements
 
 - 🏅 Completed **AWS AI & ML Scholars 2025 Challenge**  
@@ -91,7 +73,23 @@ ICSE: 100% in Computer Science
 ### 🧠 Interests
 
 🎨 Drawing & Painting | ♟️ Chess | 👩‍💻 Solving LeetCode Daily | 🤖 Exploring AI Research  
+✈️ Travelling & discovering new cultures  
 🗣 Languages: Telugu (Native), English (Fluent), Hindi (Conversational)
+
+---
+
+### 📊 GitHub & LeetCode Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibaratam&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhibaratam&layout=compact&theme=github_light&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nidhibaratam2005?theme=light&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <br/>
+  <img src="https://img.shields.io/badge/LeetCode-Python%20%7C%20Java%20%7C%20C-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Languages Badge" />
+</p>
 
 ---
 
