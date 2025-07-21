@@ -8,8 +8,8 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&theme=github_system&hide_border=true" alt="Nidhi’s GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibaratam&theme=github_system&hide_border=true" alt="Nidhi’s GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibaratam&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Streak" />
 </p>
 
 ---
