@@ -81,10 +81,20 @@ ICSE: 100% in Computer Science
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibaratam&theme=github_light&hide_border=true" alt="Nidhi’s GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhibaratam&layout=compact&theme=github_light&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nidhibaratam&show_icons=true&hide_border=true&v=1"
+    alt="Nidhi’s GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=nidhibaratam&hide_border=true&v=1"
+    alt="Nidhi’s GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhibaratam&layout=compact&hide_border=true&v=1"
+    alt="Top Languages"
+  />
 </p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nidhibaratam2005?theme=light&font=baloo&ext=contest" alt="LeetCode Stats" />
   <br/>
