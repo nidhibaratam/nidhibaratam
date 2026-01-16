@@ -63,6 +63,13 @@
 **The LNM Institute of Information Technology, Jaipur (2023–2027)**  
 B.Tech in ECE with Minor in AI & Data Science  
 **Key Courses:** DSA, Algorithms, Digital Circuits, Embedded Systems, AI/ML, Python, Java
+SEMESTER 1: 8.33
+SEMESTER 2: 6.19
+SEMESTER 3: 6.24
+SEMESTER 4: 5.86
+SEMESTER 5: 6.24
+
+CURRENT CGPA: 6.5
 
 **Timpany School, Visakhapatnam**  
 ISC: 98% in Mathematics | 94% in Computer Science  
