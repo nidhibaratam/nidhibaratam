@@ -28,19 +28,15 @@
 
 - **✈️ Airfare Predictor**  
   Implemented LSTM-based time series model to forecast airfare and flight durations with ~91% accuracy.  
-  [🔗 GitHub](https://github.com/nidhibaratam/Airfare-Predictor/tree/main) | [📹 Demo](https://drive.google.com/file/d/14lEiWjOFOG0LrFlU0yhw-gKpMWEn42LP/view) | [📝 Blog](https://medium.com/@nidhibaratam2005/decoding-the-skies-my-journey-building-an-airfare-predictor-6a22e602873a)
+  [🔗 GitHub](https://github.com/nidhibaratam/Airfare-Predictor/tree/main) | [📹 Demo](https://drive.google.com/file/d/14lEiWjOFOG0LrFlU0yhw-gKpMWEn42LP/view) | [📝 Blog](https://nidhibaratam.github.io/my_portfolio/blogs/airfare-predictor.html)
 
 - **🔢 Handwritten Digit Recognition**  
   Built an artificial neural network using the MNIST dataset with 97.41% accuracy.  
-  [🔗 GitHub](https://github.com/nidhibaratam/Handwritten-Digit-Recognition-with-Neural-Networks) | [📝 Blog](https://medium.com/@nidhibaratam2005/from-pixels-to-predictions-our-first-dive-into-image-recognition-373cec7cbacc)
+  [🔗 GitHub](https://github.com/nidhibaratam/Handwritten-Digit-Recognition-with-Neural-Networks) | [📝 Blog](https://nidhibaratam.github.io/my_portfolio/blogs/digit-recognition.html)
 
 - **🌸 Iris Flower Classifier**  
   Developed a Keras-based ANN to classify iris flower species with ~93% accuracy.  
-  [🔗 GitHub](https://github.com/nidhibaratam/Predicting-the-species-of-an-unknown-iris-type-flower) | [📝 Blog](https://medium.com/@nidhibaratam2005/unlocking-natures-secrets-how-we-taught-ai-to-identify-iris-flowers-3818d1662bea)
-
-- **🎒 Pack Your Bags! Travel Assistant**  
-  Created a smart packing list generator using Amazon PartyRock to personalize travel experiences.  
-  [🔗 PartyRock App](https://partyrock.aws/u/NidhiShriBaratam/4S3aNiwp1/Pack-Your-Bags!-Travel-Companion)
+  [🔗 GitHub](https://github.com/nidhibaratam/Predicting-the-species-of-an-unknown-iris-type-flower) | [📝 Blog](https://nidhibaratam.github.io/my_portfolio/blogs/iris-predictor.html)
 
 ---
 
