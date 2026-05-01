@@ -90,10 +90,6 @@ ICSE: 100% in Computer Science
     src="https://streak-stats.demolab.com?user=nidhibaratam&hide_border=true&v=1"
     alt="Nidhi’s GitHub Streak"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhibaratam&layout=compact&hide_border=true&v=1"
-    alt="Top Languages"
-  />
 </p>
 
 <p align="center">
